@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "author": "Julius",
+      "image": "https://via.placeholder.com/150",
+      "content": "This is the content of the first post.",
+      "timestamp": "2025-06-21 14:00"
+    },
+    {
+      "id": "a4fb",
+      "title": "Data Analytics ",
+      "author": "Julius Kedienye ",
+      "image": "https://media.istockphoto.com/id/1488294044/photo/businessman-works-on-laptop-showing-business-analytics-dashboard-with-charts-metrics-and-kpi.jpg?s=1024x1024&w=is&k=20&c=VpSNiVam6Fw3egrJYnP28mEEAXyCjFRjqV_k4PK5S04=",
+      "content": "Data analytics involves collecting, transforming, and interpreting data to identify trends, patterns, and insights that can be used to make informed decisions and solve problems.",
+      "timestamp": "6/22/2025, 9:46:09 AM"
+    },
+    {
+      "id": "8833",
+      "title": "Information Management System ",
+      "author": "Lauren",
+      "image": "https://images.pexels.com/photos/8720271/pexels-photo-8720271.jpeg",
+      "content": "An Information Management System (IMS) is a structured approach to managing an organization's information, encompassing its collection, storage, processing, and distribution.\n",
+      "timestamp": "6/22/2025, 9:37:06 AM"
+    },
+    {
+      "id": "d21e",
+      "title": "JavaScript ",
+      "author": "Lawrence ",
+      "image": "https://media.istockphoto.com/id/1439425791/photo/digital-technology-software-development-concept-coding-programmer-working-on-laptop-with.jpg?s=1024x1024&w=is&k=20&c=Z8b4zJw5DTcwI2Avf--78MsZPECrH3QyYZFla_w8WnU=",
+      "content": "JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced.",
+      "timestamp": "6/22/2025, 9:30:25 AM"
+    }
+  ]
+}

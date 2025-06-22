@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Blog Post App</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="container">
+
+    <!-- Left Panel: Blog Host + Add Post -->
+    <div class="left-panel">
+      <h1>Blog Host</h1>
+      <p id="post-count">0 blog posts</p>
+
+      <div id="post-list"></div>
+
+      <form id="new-post-form">
+        <h2>+ Add New Post</h2>
+        <input type="text" name="title" placeholder="Title" required />
+        <input type="text" name="author" placeholder="Author" required />
+        <input type="text" name="image" placeholder="Image URL" required />
+        <textarea name="content" placeholder="Post Content" required></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <!-- Right Panel: Post Pulse + Post Details -->
+    <div class="right-panel">
+      <h2>Post Pulse</h2>
+      <p>Modern Blog Post Management</p>
+
+      <div id="post-detail">
+        <p>Select a blog post to view details here.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="src/index.js"></script>
+</body>
+</html>
