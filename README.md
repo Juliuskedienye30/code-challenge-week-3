@@ -22,8 +22,8 @@
 
 
 ## Project Structure
-
-`project-root/
+```
+|project-root/
 │
 ├── css/
 │ └── styles.css
@@ -33,7 +33,7 @@
 │
 ├── db.json
 ├── index.html
-`
+```
 
 
 ##  Tech Stack
