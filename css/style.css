@@ -95,9 +95,9 @@ form button:hover {
 
 .post-image {
   width: 220px;
-  height: auto;
-  max-height: 300px;
-  border-radius: 6px;
+  height: 320px;
+  max-height: 200px;
+  border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
 }

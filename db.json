@@ -1,20 +1,12 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "First Blog Post",
-      "author": "Julius",
-      "image": "https://via.placeholder.com/150",
-      "content": "This is the content of the first post.",
-      "timestamp": "2025-06-21 14:00"
-    },
-    {
       "id": "a4fb",
       "title": "Data Analytics ",
       "author": "Julius Kedienye ",
       "image": "https://media.istockphoto.com/id/1488294044/photo/businessman-works-on-laptop-showing-business-analytics-dashboard-with-charts-metrics-and-kpi.jpg?s=1024x1024&w=is&k=20&c=VpSNiVam6Fw3egrJYnP28mEEAXyCjFRjqV_k4PK5S04=",
       "content": "Data analytics involves collecting, transforming, and interpreting data to identify trends, patterns, and insights that can be used to make informed decisions and solve problems.",
-      "timestamp": "6/22/2025, 9:46:09 AM"
+      "timestamp": "6/23/2025, 8:24:07 AM"
     },
     {
       "id": "8833",
@@ -22,7 +14,7 @@
       "author": "Lauren",
       "image": "https://images.pexels.com/photos/8720271/pexels-photo-8720271.jpeg",
       "content": "An Information Management System (IMS) is a structured approach to managing an organization's information, encompassing its collection, storage, processing, and distribution.\n",
-      "timestamp": "6/22/2025, 9:37:06 AM"
+      "timestamp": "6/22/2025, 6:09:51 PM"
     },
     {
       "id": "d21e",
@@ -31,6 +23,30 @@
       "image": "https://media.istockphoto.com/id/1439425791/photo/digital-technology-software-development-concept-coding-programmer-working-on-laptop-with.jpg?s=1024x1024&w=is&k=20&c=Z8b4zJw5DTcwI2Avf--78MsZPECrH3QyYZFla_w8WnU=",
       "content": "JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced.",
       "timestamp": "6/22/2025, 9:30:25 AM"
+    },
+    {
+      "id": "afcc",
+      "title": "Cyber Security ",
+      "author": "Kedienye",
+      "image": "https://cdn.pixabay.com/photo/2023/07/19/06/20/ai-generated-8136171_960_720.png",
+      "content": "Cybersecurity is the practice of protecting internet-connected systems, networks, and data from digital attacks and unauthorized access. It involves implementing various security measures, technologies, and protocols to safeguard sensitive information, prevent cyber threats, and maintain the integrity and confidentiality of digital assets",
+      "timestamp": "6/22/2025, 6:08:33 PM"
+    },
+    {
+      "id": "a2f6",
+      "title": "Database",
+      "author": "Lauren",
+      "image": "https://cdn.pixabay.com/photo/2020/10/11/17/19/icon-5646460_1280.jpg",
+      "content": "A database is information that's set up for easy access, management and updating. Computer databases typically store aggregations of data records or files that contain information such as sales transactions, customer data, financials and product information.",
+      "timestamp": "6/23/2025, 11:38:22 AM"
+    },
+    {
+      "id": "1b43",
+      "title": "Learning Algorithm ",
+      "author": "Dan",
+      "image": "https://cdn.pixabay.com/photo/2024/11/22/17/55/quantum-computer-9217139_1280.jpg",
+      "content": "A learning algorithm is the process by which a neural network updates its parameters to capture patterns in a given sample . It involves making modifications to synaptic weights based on the gradient vector.",
+      "timestamp": "6/23/2025, 8:27:45 AM"
     }
   ]
 }
